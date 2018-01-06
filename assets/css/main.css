@@ -537,7 +537,7 @@ h2 {
       .case_items .case_item_wide {
         min-height: initial; } }
     .case_items .case_item_wide .case_item_header {
-      min-height: 2em;
+      min-height: 1em;
       margin-bottom: 1em;
       font-size: 62px;
       max-width: initial;
